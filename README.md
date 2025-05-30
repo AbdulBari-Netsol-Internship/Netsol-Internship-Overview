@@ -31,11 +31,11 @@ This repo acts as the central hub for all weekly projects, learning goals, and p
 
 Here are the weekly repositories with all code, notes, and assignments:
 
-- [`01-python-cs50`](https://github.com/your-org/01-python-cs50) – Python Programming (Harvard CS50x)
-- [`02-react-basics`](https://github.com/your-org/02-react-basics) – Frontend Development with React
-- [`03-linux-docker`](https://github.com/your-org/03-linux-docker) – Linux CLI and Docker Environment
-- [`04-fastapi-postgresql`](https://github.com/your-org/04-fastapi-postgresql) – Building APIs & Working with PostgreSQL
-- [`05-r-llm-apis`](https://github.com/your-org/05-r-llm-apis) – R Language Models + LLM API Integration
+- [`01-python-cs50`](https://github.com/AbdulBari-Netsol-Internship/CS50-Programming-with-python) – Python Programming (Harvard CS50x)
+- [`02-react-basics`](https://github.com/AbdulBari-Netsol-Internship/02-React-Basics) – Frontend Development with React
+- [`03-linux-docker`](https://github.com/AbdulBari-Netsol-Internship/03-Linux-Docker) – Linux CLI and Docker Environment
+- [`04-fastapi-postgresql`](https://github.com/AbdulBari-Netsol-Internship/04-FastApi-Projects) – Building APIs & Working with PostgreSQL
+- [`05-r-llm-apis`](https://github.com/AbdulBari-Netsol-Internship/05-R-Logistic-Regression) – R Language Models + LLM API Integration
 
 ---
 
@@ -49,7 +49,7 @@ To build a strong foundation in software engineering and AI/ML systems by combin
 
 - Python, React.js, FastAPI, PostgreSQL, Docker
 - OpenAI, Google Gemini, Claude APIs
-- Linux Shell, GitHub, VS Code, R Language
+- Linux Shell, GitHub, VS Code, R Language, Pycharm
 
 ---
 
